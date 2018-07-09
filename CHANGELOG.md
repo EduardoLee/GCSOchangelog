@@ -1,5 +1,13 @@
 ## [Unreleased]
 
+## [0.3.1] - 2018-04-21
+### Added
+- Velocímetro
+- Opção de restart
+
+### Fixed
+- Corrigido carro sem som na largada
+
 ## [0.2.0] - 2018-04-18
 ### Added
 - Modo Arcade
