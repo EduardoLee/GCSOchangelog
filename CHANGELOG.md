@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+
+## [0.4.0] - 2018-04-24
+### Added
+- Pista de Interlagos
+- 2 cores Ford Mustang
+
 ## [0.3.1] - 2018-04-21
 ### Added
 - Velocímetro
