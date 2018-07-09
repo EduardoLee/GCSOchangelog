@@ -1,5 +1,13 @@
 ## Unreleased
 
+## 1.1.2 - 2018-06-09
+### Added
+- Modo online
+
+### Fixed
+- Erro por conexão lenta
+- Usuário sem nome
+
 ## 1.0.7 - 2018-06-09
 ### Fixed
 - Honda NSX sem freio
