@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [0.2.0] - 2018-04-18
+### Added
+- Modo Arcade
+- Pista de Monza
+- Carro Ford Mustang 2008
+
 ## 0.1.0 - 2018-04-12
 ### Added
 - Iniciado desenvolvimento do aplicativo "Corrida Real"
