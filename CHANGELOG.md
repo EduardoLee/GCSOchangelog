@@ -1,5 +1,24 @@
 ## Unreleased
 
+## 1.0.0 - 2018-06-03
+### Added
+- Novo visual de menus
+- Seção créditos
+- Modo Test Drive
+- Seção tutorial
+- Tradução para o inglês
+- Tradução para o espanhol
+
+### Changed
+- Início com um clique
+- Vizualização de pistas na horizontal
+- Informações de carros no lado esquerdo
+- Visual mais limpo do velocímetro 
+- Melhora no carregamento de corridas
+
+### Removed
+- Pista Interlagos
+
 ## 0.5.0 - 2018-05-02
 ### Added
 - Carros Ford Mustang 2010, Audi RS3 2010, Honda NSX 2013
