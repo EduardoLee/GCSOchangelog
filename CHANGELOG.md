@@ -1,4 +1,11 @@
-## Unreleased
+
+## 2.1.0 - 2018-07-02
+### Added
+- Ranking mundial
+- Função de gravar corrida
+
+### Removed
+- Modo test drive
 
 ## 2.0.0 - 2018-06-19
 ### Added
