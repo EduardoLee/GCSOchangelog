@@ -1,5 +1,10 @@
 ## Unreleased
 
+## 1.0.7 - 2018-06-09
+### Fixed
+- Honda NSX sem freio
+- Honda NSX lento
+
 ## 1.0.5 - 2018-06-07
 ### Fixed
 - Carros com pneus quadrados
