@@ -1,5 +1,12 @@
 ## Unreleased
 
+## 1.2.1 - 2018-06-12
+### Added
+- Carro Chevrolet Camaro 2017
+
+### Fixed
+- Carro sem sombra
+
 ## 1.1.2 - 2018-06-09
 ### Added
 - Modo online
