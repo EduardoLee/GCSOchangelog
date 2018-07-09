@@ -1,5 +1,15 @@
 ## Unreleased
 
+## 2.0.0 - 2018-06-19
+### Added
+- 10 novos carros
+- 2 novas pistas
+
+### Changed
+- Sons mais realistas
+- Carros com mais informações
+- Novo menu
+
 ## 1.2.1 - 2018-06-12
 ### Added
 - Carro Chevrolet Camaro 2017
