@@ -1,5 +1,13 @@
 ## Unreleased
 
+## 1.0.5 - 2018-06-07
+### Fixed
+- Carros com pneus quadrados
+- Grama preta
+- Botões do menu principal fora de posição
+- Música alta
+- Lentidão para Reinicio
+
 ## 1.0.0 - 2018-06-03
 ### Added
 - Novo visual de menus
