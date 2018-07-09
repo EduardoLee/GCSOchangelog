@@ -1,4 +1,8 @@
 
+## 2.1.1 - 2018-07-04
+### Security
+- Aumento na segurança de dados armazenados no dispositivo
+
 ## 2.1.0 - 2018-07-02
 ### Added
 - Ranking mundial
