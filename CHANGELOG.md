@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [0.4.2] - 2018-04-25
+### Fixed
+- Céu piscando
+
+### Changed
+- Nova fonte para menus
 
 ## [0.4.0] - 2018-04-24
 ### Added
